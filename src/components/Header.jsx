@@ -30,7 +30,7 @@ export default function Header() {
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" href="#">
+              <NavLink className="nav-link" to="addrecord">
                 Aggiungi disco
               </NavLink>
             </li>
